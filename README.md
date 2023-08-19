@@ -1,5 +1,7 @@
 # Homelab :sparkles:
 
+![license](https://img.shields.io/github/license/sapph2c/homelab?style=for-the-badge&logo=gnu&logoColor=white)
+
 This is a living document of my homelab which I use to safely learn and gain hands on experience with new technologies.
 
 > **What is a homelab?**
@@ -21,5 +23,5 @@ This is a living document of my homelab which I use to safely learn and gain han
 
 ## Acknowledgements
 
-- [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Used for tech stack logos
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Badges
 - [Khue's Homelab](https://github.com/khuedoan/homelab) - Inspiration
