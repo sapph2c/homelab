@@ -26,7 +26,7 @@ This is a living document of my homelab which I use to safely learn and gain han
 - **Ports**: 4
 - **Speed**: 1000 Mbps
 
-## Tech Stack :computer:
+## Tech Stack
 
 | Name | Description |
 |-------------- | -------------- |
