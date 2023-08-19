@@ -10,7 +10,7 @@ This is a living document of my homelab which I use to safely learn and gain han
 ## Tech Stack :computer:
 
 | Name | Description |
-|-------------- | -------------- | -------------- |
+|-------------- | -------------- |
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | Domain hosting, DNS, and remote access
 | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Containers
 | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | Metric visualization
